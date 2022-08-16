@@ -17,6 +17,8 @@ This was the final project for an iOS Codepath Bootcamp I completed in Spring 20
 
 This was meant to be a marketplace for artists to selling their work auction style in the app.
 
+<img src="./cassiopeia_demo.gif" width=300 alt="app_demo">
+
 ## Product Spec
 
 ### 1. User Stories (Required and Optional)
